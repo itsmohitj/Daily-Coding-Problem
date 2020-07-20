@@ -2,13 +2,9 @@ Given a string and a number of lines k, print the string in zigzag form. In zigz
 
 For example, given the sentence "thisisazigzag" and k = 4, you should print:
 <pre>
-<br/>
 t     a     g
-<br/>
  h   s z   a
-<br/>
   i i   i z
-<br/>
    g     g
 
 <br/>
