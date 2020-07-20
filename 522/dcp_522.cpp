@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std; 
+
 void allOccurrence(string str, string substring){ 
     for (int i = 0; i < str.length(); i++) { 
         if (str.substr(i, substring.length()) == substring) { //substr is a predefined function which takes two arguments, first is the position from where to start and second is the length of the substring
