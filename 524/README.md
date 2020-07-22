@@ -17,11 +17,11 @@ Do this in O(N) time.
 
 This can be done by Kadane's Algorithm
 
-1. Initialize a variable overallMax=0 which keep tracks of maximum sum contiguous segment among all segments.
-2. Initialize another variable maxTillNow=0 which will contain sum till now for current segment
+1. Initialize a variable overallMax = 0 which keep tracks of maximum sum contiguous segment among all segments.
+2. Initialize another variable maxTillNow = 0 which will contain sum till now for the current segment
 3. Loop over every element of the array 
-	1. update maxTillNow = maxTillNow + array[i]
-	2. check if maxTillNow is less than 0, if it is , then assign a value of zero to it, i.e. make maxTillNow=0.
+	1. Update maxTillNow = maxTillNow + array[i]
+	2. Check if maxTillNow is less than 0, if it is , then assign a value of zero to it, i.e. make maxTillNow=0.
 	3. Otherwise, Check if maxTillNow is greater than overallMax, if it is, then update the value of overallMax to maxTillNow.
-4. finally return overallMax
+4. Return overallMax
 
