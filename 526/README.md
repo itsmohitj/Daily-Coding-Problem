@@ -12,7 +12,7 @@ This problem was asked by Yahoo.
 
 # Solution
 
-- Take a new string X and initialize it to empty string i.e. X=""
+- Take a new string X and initialize it to empty string i.e. X=" "
 - Find the smallest character in the first k characters in the string str.
 - Delete the smallest character found.
 - Append the smallest character found to the new string X.
