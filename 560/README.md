@@ -1,6 +1,5 @@
 # Problem 560
 
-Good morning! Here's your coding interview problem for today.
 
 This problem was recently asked by Google.
 
