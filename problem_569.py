@@ -67,4 +67,4 @@ if __name__ == '__main__':
 # Space Complexity = O(1)
 # Comparisons :
 #   If n is odd = 1+3(n-2)/2 = 3n/2
-#   If n is even = 3+3(n-2)/2 = 3n+4/2
+#   If n is even = 3+3(n-2)/2 = (3n+4)/2
