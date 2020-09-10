@@ -7,3 +7,12 @@ I'll try to solve these problems as much as possible.
  The solutions will be in Python.
 <br/>
 Suggestions from anyone are welcome as it will help me to learn more.
+
+1. [Problem 1](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_001.py)
+2. [Problem 2](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_002.py)
+95. [Problem 95](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_095.py)
+519. [Problem 519](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_519.py)
+560. [Problem 560](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_560.py)
+562. [Problem 562](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_562.py)
+569. [Problem 569](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_569.py)
+572. [Problem 572](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_572.py)
