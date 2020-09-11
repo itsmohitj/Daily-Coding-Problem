@@ -12,7 +12,7 @@ Suggestions from anyone are welcome as it will help me to learn more.
 2. [Problem 2](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_002.py)
 95. [Problem 95](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_095.py)
 128. [Problem 128](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_128.py)
-327.[Problem 327] (https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_327.py)
+327. [Problem 327] (https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_327.py)
 422. [Problem 422](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_422.py)
 519. [Problem 519](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_519.py)
 560. [Problem 560](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_560.py)
