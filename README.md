@@ -20,6 +20,7 @@ Suggestions from anyone are welcome as it will help me to learn more.
 327. [Problem 327](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_327.py)
 332. [Problem 332](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_332.py)
 422. [Problem 422](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_422.py)
+424. [Problem 424](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_424.py)
 519. [Problem 519](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_519.py)
 522. [Problem 522](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_522.py)
 523. [Problem 523](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_523.py)
