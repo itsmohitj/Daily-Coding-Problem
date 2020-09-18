@@ -14,6 +14,7 @@ Suggestions from anyone are welcome as it will help me to learn more.
 75. [Problem 75](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_075.py)
 95. [Problem 95](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_095.py)
 128. [Problem 128](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_128.py)
+135. [Problem 135](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_135.py)
 140. [Problem 140](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_140.py)
 155. [Problem 155](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_155.py)
 176. [Problem 176](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_176.py)
@@ -33,3 +34,4 @@ Suggestions from anyone are welcome as it will help me to learn more.
 571. [Problem 571](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_571.py)
 572. [Problem 572](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_572.py)
 578. [Problem 578](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_578.py)
+578. [Problem 580](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_580.py)
