@@ -10,6 +10,8 @@ Suggestions from anyone are welcome as it will help me to learn more.
 
 1. [Problem 1](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_001.py)
 2. [Problem 2](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_002.py)
+4. [Problem 4](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_004.py)
+49. [Problem 49](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_049.py)
 49. [Problem 49](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_049.py)
 75. [Problem 75](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_075.py)
 95. [Problem 95](https://github.com/itsmohitj/Daily-Coding-Problem/blob/master/problem_095.py)
